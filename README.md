@@ -24,3 +24,4 @@ When the game is over, then the user can save their initials and score.<br/>
 
 https://dresroldan.github.io/web-api-code-quiz/
 
+![Image of the App](quizscreenshot.png)
